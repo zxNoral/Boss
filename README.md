@@ -1,2 +1,2 @@
-# Douban
-基于Bootstrap的开发豆瓣电影的demo
+# Boss直聘
+基于Vue开发移动端boss直聘的demo
