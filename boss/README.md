@@ -2,9 +2,6 @@
 
 BOSS直聘APP-Vue 2.3.3版本
 
-## 安装方法
-
-``` bash
 # 安装依赖库
 npm install
 cnpm install	#建议使用cnpm安装
@@ -12,18 +9,7 @@ cnpm install	#建议使用cnpm安装
 # 开发版启动预览 localhost:8080
 npm run dev
 
-# 打包生产环境
-npm run build
 
-# 使用分析报告打包预览
-npm run build --report
-
-# 运行单元测试
-npm run unit
-
-# 运行所有的测试脚本
-npm test
-```
 
 ## 文件结构
 
