@@ -1,2 +1,5 @@
 # Boss直聘
-基于Vue开发移动端boss直聘的demo
+BOSS直聘APP-Vue 2.3.3版本
+
+#可实现功能
+
