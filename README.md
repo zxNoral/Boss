@@ -7,7 +7,7 @@
 
 + “职位”页面：发布的职位信息展示，可实现刷新，以及下滑。点击可展示详情。同时，可根据条件，如推荐，公司，要求等进行公司招聘信息的筛选。
 
-  ![](C:\Users\婷婷\Desktop\newBoss\Boss\images\bJob.jpg)
+  ![](https://raw.githubusercontent.com/zxNoral/Boss/master/images/bJob.jpg)
 
   ![](https://raw.githubusercontent.com/zxNoral/Boss/master/images/bshouye.jpg)
 
@@ -23,4 +23,4 @@
 
 + “我的”页面：展示个人信息等，仅设置了样式。
 
-![](https://raw.githubusercontent.com/zxNoral/Boss/master/images/bmy.jpg)
+  ![](https://raw.githubusercontent.com/zxNoral/Boss/master/images/bmy.jpg)
