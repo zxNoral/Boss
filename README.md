@@ -13,7 +13,7 @@
 
 + “公司”页面：招聘公司信息展示，点击可展示详情。
 
-  ![](C:\Users\婷婷\Desktop\newBoss\Boss\images\bCompany.jpg)
+  ![](https://github.com/zxNoral/Boss/blob/master/images/bCompany.jpg)
 
   ![](C:\Users\婷婷\Desktop\newBoss\Boss\images\binfo2.jpg)
 
