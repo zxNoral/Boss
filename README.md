@@ -9,7 +9,7 @@
 
   ![](C:\Users\婷婷\Desktop\newBoss\Boss\images\bJob.jpg)
 
-  ![](C:\Users\婷婷\Desktop\newBoss\Boss\images\bshouye.jpg)
+  ![](https://raw.githubusercontent.com/zxNoral/Boss/master/images/bshouye.jpg)
 
 + “公司”页面：招聘公司信息展示，点击可展示详情。
 
